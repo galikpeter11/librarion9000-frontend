@@ -1,0 +1,9 @@
+.default-drawer {
+  width: 250px;
+  overflow-x: hidden;
+}
+
+.default-navlist {
+  padding-top: 0;
+  overflow: hidden;
+}
